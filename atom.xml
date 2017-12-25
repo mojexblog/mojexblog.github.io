@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://mojexblog.github.io/"/>
-  <updated>2017-12-25T01:11:29.741Z</updated>
+  <updated>2017-12-25T01:18:09.394Z</updated>
   <id>https://mojexblog.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://mojexblog.github.io/2017/12/20/xwork/"/>
     <id>https://mojexblog.github.io/2017/12/20/xwork/</id>
     <published>2017-12-20T15:43:00.000Z</published>
-    <updated>2017-12-25T01:11:29.741Z</updated>
+    <updated>2017-12-25T01:18:09.394Z</updated>
     
     <content type="html"><![CDATA[<p>紀錄帥帥瞬間 - 拍攝於2016/2月 掃墓 苗栗五湖 前菜園<br><img src="/2017/12/20/xwork/moje.jpg" title="This is an image"></p>]]></content>
     
@@ -35,6 +35,12 @@
     
     </summary>
     
+      <category term="family" scheme="https://mojexblog.github.io/categories/family/"/>
+    
+    
+      <category term="徐子洋" scheme="https://mojexblog.github.io/tags/%E5%BE%90%E5%AD%90%E6%B4%8B/"/>
+    
+      <category term="My Love" scheme="https://mojexblog.github.io/tags/My-Love/"/>
     
   </entry>
   
