@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://mojexblog.github.io/"/>
-  <updated>2017-12-25T09:05:05.356Z</updated>
+  <updated>2017-12-25T09:09:07.720Z</updated>
   <id>https://mojexblog.github.io/</id>
   
   <author>
@@ -21,15 +21,15 @@
     <link href="https://mojexblog.github.io/2017/12/25/angela/"/>
     <id>https://mojexblog.github.io/2017/12/25/angela/</id>
     <published>2017-12-25T08:59:26.000Z</published>
-    <updated>2017-12-25T09:05:05.356Z</updated>
+    <updated>2017-12-25T09:09:07.720Z</updated>
     
-    <content type="html"><![CDATA[<p>紀錄<br></p>]]></content>
+    <content type="html"><![CDATA[<p>紀錄<br><img src="/2017/12/25/angela/angela001.jpg" title="This is an image111"></p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;紀錄&lt;br&gt;&lt;/p&gt;
+        &lt;p&gt;紀錄&lt;br&gt;&lt;img src=&quot;/2017/12/25/angela/angela001.jpg&quot; title=&quot;This is an image111&quot;&gt;&lt;/p&gt;
 
       
     
@@ -38,9 +38,9 @@
       <category term="family" scheme="https://mojexblog.github.io/categories/family/"/>
     
     
-      <category term="徐子洋" scheme="https://mojexblog.github.io/tags/%E5%BE%90%E5%AD%90%E6%B4%8B/"/>
-    
       <category term="My Love" scheme="https://mojexblog.github.io/tags/My-Love/"/>
+    
+      <category term="李秋玲" scheme="https://mojexblog.github.io/tags/%E6%9D%8E%E7%A7%8B%E7%8E%B2/"/>
     
   </entry>
   
