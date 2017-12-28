@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://mojexblog.github.io/"/>
-  <updated>2017-12-28T17:28:30.758Z</updated>
+  <updated>2017-12-28T17:32:02.118Z</updated>
   <id>https://mojexblog.github.io/</id>
   
   <author>
@@ -15,6 +15,39 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>git</title>
+    <link href="https://mojexblog.github.io/2017/12/29/git/"/>
+    <id>https://mojexblog.github.io/2017/12/29/git/</id>
+    <published>2017-12-28T17:30:51.000Z</published>
+    <updated>2017-12-28T17:32:02.118Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="git-踩坑紀錄"><a href="#git-踩坑紀錄" class="headerlink" title="git 踩坑紀錄"></a>git 踩坑紀錄</h1><hr><blockquote><ul><li>指令</li><li>GitHub</li><li>部署到GitHub</li><li>資料維護</li></ul></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;git-踩坑紀錄&quot;&gt;&lt;a href=&quot;#git-踩坑紀錄&quot; class=&quot;headerlink&quot; title=&quot;git 踩坑紀錄&quot;&gt;&lt;/a&gt;git 踩坑紀錄&lt;/h1&gt;&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;指令&lt;/li&gt;
+&lt;li&gt;GitHub&lt;/li
+      
+    
+    </summary>
+    
+      <category term="git" scheme="https://mojexblog.github.io/categories/git/"/>
+    
+    
+      <category term="git" scheme="https://mojexblog.github.io/tags/git/"/>
+    
+      <category term="踩坑" scheme="https://mojexblog.github.io/tags/%E8%B8%A9%E5%9D%91/"/>
+    
+      <category term="github" scheme="https://mojexblog.github.io/tags/github/"/>
+    
+  </entry>
   
   <entry>
     <title>hexo</title>
@@ -41,9 +74,9 @@
       <category term="hexo" scheme="https://mojexblog.github.io/categories/hexo/"/>
     
     
-      <category term="hexo" scheme="https://mojexblog.github.io/tags/hexo/"/>
-    
       <category term="踩坑" scheme="https://mojexblog.github.io/tags/%E8%B8%A9%E5%9D%91/"/>
+    
+      <category term="hexo" scheme="https://mojexblog.github.io/tags/hexo/"/>
     
   </entry>
   
