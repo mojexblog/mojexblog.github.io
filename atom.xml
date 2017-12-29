@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://mojexblog.github.io/"/>
-  <updated>2017-12-28T17:32:02.118Z</updated>
+  <updated>2017-12-29T00:59:24.125Z</updated>
   <id>https://mojexblog.github.io/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Angular</title>
+    <link href="https://mojexblog.github.io/2017/12/29/Angular/"/>
+    <id>https://mojexblog.github.io/2017/12/29/Angular/</id>
+    <published>2017-12-29T00:58:15.000Z</published>
+    <updated>2017-12-29T00:59:24.125Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Angular-踩坑紀錄"><a href="#Angular-踩坑紀錄" class="headerlink" title="Angular 踩坑紀錄"></a>Angular 踩坑紀錄</h1><hr>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;Angular-踩坑紀錄&quot;&gt;&lt;a href=&quot;#Angular-踩坑紀錄&quot; class=&quot;headerlink&quot; title=&quot;Angular 踩坑紀錄&quot;&gt;&lt;/a&gt;Angular 踩坑紀錄&lt;/h1&gt;&lt;hr&gt;
+
+      
+    
+    </summary>
+    
+      <category term="Angular" scheme="https://mojexblog.github.io/categories/Angular/"/>
+    
+    
+      <category term="Angular" scheme="https://mojexblog.github.io/tags/Angular/"/>
+    
+      <category term="踩坑" scheme="https://mojexblog.github.io/tags/%E8%B8%A9%E5%9D%91/"/>
+    
+  </entry>
   
   <entry>
     <title>git</title>
@@ -41,9 +69,9 @@
       <category term="git" scheme="https://mojexblog.github.io/categories/git/"/>
     
     
-      <category term="git" scheme="https://mojexblog.github.io/tags/git/"/>
-    
       <category term="踩坑" scheme="https://mojexblog.github.io/tags/%E8%B8%A9%E5%9D%91/"/>
+    
+      <category term="git" scheme="https://mojexblog.github.io/tags/git/"/>
     
       <category term="github" scheme="https://mojexblog.github.io/tags/github/"/>
     
