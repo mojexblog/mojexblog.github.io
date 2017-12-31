@@ -2,9 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://mojexblog.github.io/2017/12/29/hexo/</loc>
+    
+    <lastmod>2017-12-31T16:09:08.351Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://mojexblog.github.io/2017/12/29/Angular/</loc>
     
-    <lastmod>2017-12-31T15:53:06.885Z</lastmod>
+    <lastmod>2017-12-31T16:00:54.208Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://mojexblog.github.io/2017/12/29/git/</loc>
+    
+    <lastmod>2017-12-31T16:00:52.235Z</lastmod>
     
   </url>
   
@@ -19,20 +33,6 @@
     <loc>https://mojexblog.github.io/about/index.html</loc>
     
     <lastmod>2017-12-30T14:27:15.141Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://mojexblog.github.io/2017/12/29/git/</loc>
-    
-    <lastmod>2017-12-28T17:32:02.118Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://mojexblog.github.io/2017/12/29/hexo/</loc>
-    
-    <lastmod>2017-12-28T17:28:30.758Z</lastmod>
     
   </url>
   
