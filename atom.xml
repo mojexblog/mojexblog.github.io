@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://mojexblog.github.io/"/>
-  <updated>2017-12-29T00:59:24.125Z</updated>
+  <updated>2017-12-31T15:53:06.885Z</updated>
   <id>https://mojexblog.github.io/</id>
   
   <author>
@@ -21,17 +21,14 @@
     <link href="https://mojexblog.github.io/2017/12/29/Angular/"/>
     <id>https://mojexblog.github.io/2017/12/29/Angular/</id>
     <published>2017-12-29T00:58:15.000Z</published>
-    <updated>2017-12-29T00:59:24.125Z</updated>
+    <updated>2017-12-31T15:53:06.885Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="Angular-踩坑紀錄"><a href="#Angular-踩坑紀錄" class="headerlink" title="Angular 踩坑紀錄"></a>Angular 踩坑紀錄</h1><hr>]]></content>
+    <content type="html"><![CDATA[<h1 id="Angular-踩坑紀錄"><a href="#Angular-踩坑紀錄" class="headerlink" title="Angular 踩坑紀錄"></a>Angular 踩坑紀錄</h1><hr><p>Angular 學習紀錄<br><img src="/2017/12/29/Angular/angular.svg" title="This is an image1"><br><a id="more"></a></p><blockquote><ul><li>指令</li><li>GitHub設置</li><li>部署到GitHub</li><li>資料維護</li></ul></blockquote>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;h1 id=&quot;Angular-踩坑紀錄&quot;&gt;&lt;a href=&quot;#Angular-踩坑紀錄&quot; class=&quot;headerlink&quot; title=&quot;Angular 踩坑紀錄&quot;&gt;&lt;/a&gt;Angular 踩坑紀錄&lt;/h1&gt;&lt;hr&gt;
-
-      
+      &lt;h1 id=&quot;Angular-踩坑紀錄&quot;&gt;&lt;a href=&quot;#Angular-踩坑紀錄&quot; class=&quot;headerlink&quot; title=&quot;Angular 踩坑紀錄&quot;&gt;&lt;/a&gt;Angular 踩坑紀錄&lt;/h1&gt;&lt;hr&gt;
+&lt;p&gt;Angular 學習紀錄&lt;br&gt;&lt;img src=&quot;/2017/12/29/Angular/angular.svg&quot; title=&quot;This is an image1&quot;&gt;&lt;br&gt;
     
     </summary>
     
