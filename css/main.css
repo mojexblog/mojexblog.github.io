@@ -1816,7 +1816,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #67e332;
+  background: #a1ff9a;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2678,9 +2678,15 @@ embed {
 .links-of-blogroll-inline .links-of-blogroll-item {
   display: inline-block;
 }
+body {
+  background-image: url("/images/background.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 50% 50%;
+}
 .headband {
   height: 1.5px;
-  background-image: linear-gradient(90deg, #f79533 0%, #f37055 15%, #ef4e7b 30%, #a166ab 44%, #5073b8 58%, #1098ad 72%, #07b39b 86%, #6dba82 100%);
+  background-image: linear-gradient(90deg, #fff 100%);
 }
 .header {
   line-height: 1.5;
@@ -2705,7 +2711,7 @@ embed {
   width: 100%;
 }
 .site-meta {
-  background-image: linear-gradient(90deg, #f79533 0%, #f37055 15%, #ef4e7b 30%, #a166ab 44%, #5073b8 58%, #1098ad 72%, #07b39b 86%, #6dba82 100%);
+  background-image: linear-gradient(90deg, #fff 100%);
 }
 .brand {
   background-color: rgba(255,255,255,0);
